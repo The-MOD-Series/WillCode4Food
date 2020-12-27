@@ -13,4 +13,7 @@ Our Model Here is Posing With the Hoodie "Will {Code} 4 Food".
 
 # Create your Own Custom Design
 ![Printful Logo](https://files.cdn.printful.com/upload/og-image-tag/af/af7a436eabcad494d98978e7f689b5fe_l?v=1576220953)
-This Hoodie is Provided by [Printful](https://www.printful.com/), and this Design can be custom printed with your Own unique QRCode (I Used [QRCode Generator](https://www.qr-code-generator.com/)), by either Contacting me in [@KFChinese's](https://github.com/kfchinese) Bio, Or, by Recreating this template with Forking this Repository, Screenshotting the Code and Getting the frontend to include your QR Code.
+This Hoodie is Provided by [Printful](https://www.printful.com/), and this Design can be custom printed with your Own unique QRCode 
+(I Used [QRCode Generator](https://www.qr-code-generator.com/)).
+
+You can do this by either Contacting me in [@KFChinese's](https://github.com/kfchinese) Bio, Or, by Recreating this template with Forking this Repository, modifying index.html with your QRCode, Screenshotting the Code and Using that Screenshot to Paste onto your Hoodie or piece of clothing to your taste.
